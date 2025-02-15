@@ -197,13 +197,10 @@ button{
     color: #2e2f42;
 }
 .feature-container{
-    padding-top: 120px;
-    padding-bottom: 120px;
 }
 .features-menu {
     display: flex;
     gap: 24px;
-    padding: 120px 0;
 }
 .features-list {
     width: calc((100% - 72px) / 4);
@@ -264,7 +261,6 @@ button{
     
 }
 .members-text {
-    margin-bottom: 32px;
     text-align: center;
 }
 /*Fourth section*/
